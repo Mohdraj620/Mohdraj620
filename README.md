@@ -17,7 +17,7 @@ I am primarily focused on full-stack web development and software architecture. 
 ### Get in Touch
 If you are interested in collaborating or discussing potential opportunities, feel free to reach out:
 
-* **Email:** [mdraj1572005@gmail.com](mailto:mdraj1572005@gmail.com)
+* **Email:** [maxxr337@gmail.com](mailto:maxxr337@gmail.com)
 * **LinkedIn:** [linkedin.com/in/MD-RAJ](https://linkedin.com/in/MD-RAJ)
 * **X (Twitter):** [x.com/Mohammad_Raj0](https://x.com/Mohammad_Raj0)
 * **Instagram:** [instagram.com/mohammad.raj9](https://instagram.com/mohammad.raj9)
